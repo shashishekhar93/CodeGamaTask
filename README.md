@@ -47,7 +47,7 @@ The application fetches data from the [News API](https://newsapi.org/). The foll
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/shashishekhar93/CodeGamaTask
     ```
 2.  **Open in Android Studio:**
     - Open Android Studio and select `Open an Existing Project`.
@@ -68,10 +68,6 @@ The application fetches data from the [News API](https://newsapi.org/). The foll
 Unit tests have not been implemented for this project yet.
 
 ## Video Demo
-
-[Link to Video Demo - *Please upload a screen recording and add the link here*]
-
-
 https://github.com/user-attachments/assets/4fd8342f-ee1d-43f2-9d08-70925ca1c879
 
 
